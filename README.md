@@ -35,3 +35,6 @@ The active controls can be categorized by which row the key appears on on the nu
 * \- : Summon "Boss" pet
 * \+ : Equip (First Upgrade)
 * Enter: Upgrade (Second Upgrade)
+
+# Prior Art
+These binds were initially based on the guide posted to the old City of Heroes Official Forums by Sandolphan. [Sandolphan's Mastermind Numeric Keypad Pet Controls.](http://web.archive.org/web/20120904222729/http://boards.cityofheroes.com/showthread.php?t=117256)
