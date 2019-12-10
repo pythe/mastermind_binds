@@ -2,11 +2,11 @@ numpad0 bindloadfile "./mastermind_binds/all.txt"
 numpad1 bindloadfile "./mastermind_binds/battledrones.txt"
 numpad2 bindloadfile "./mastermind_binds/protectorbots.txt"
 numpad3 bindloadfile "./mastermind_binds/assaultbot.txt"
-divide powexec_loaction 300:5 "battle drones"
+divide powexec_location 300:5 "battle drones"
 multiply powexec_location 60:5 "protector bots"
 subtract powexec_location 0:5 "assault bot"
-add powexec_name "equip robot"
-numpadenter powexec_name "upgrade robot"
+add powexec_name equip robot
+numpadenter powexec_name upgrade robot
 
 numpad4 petcom_all aggressive
 numpad5 petcom_all defensive
