@@ -1,0 +1,7 @@
+numpad4 petcom_pow thugs aggressive
+numpad5 petcom_pow thugs defensive
+numpad6 petcom_pow thugs passive
+numpad7 petcom_pow thugs attack
+numpad8 petcom_pow thugs follow
+numpad9 petcom_pow thugs goto
+lctrl+decimal petcom_pow thugs dismiss

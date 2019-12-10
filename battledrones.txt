@@ -1,0 +1,7 @@
+numpad4 petcom_pow "battle drones" aggressive
+numpad5 petcom_pow "battle drones" defensive
+numpad6 petcom_pow "battle drones" passive
+numpad7 petcom_pow "battle drones" attack
+numpad8 petcom_pow "battle drones" follow
+numpad9 petcom_pow "battle drones" goto
+lctrl+decimal petcom_pow "battle drones" dismiss

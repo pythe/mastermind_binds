@@ -1,0 +1,7 @@
+numpad4 petcom_pow "assault bot" aggressive
+numpad5 petcom_pow "assault bot" defensive
+numpad6 petcom_pow "assault bot" passive
+numpad7 petcom_pow "assault bot" attack
+numpad8 petcom_pow "assault bot" follow
+numpad9 petcom_pow "assault bot" goto
+lctrl+decimal petcom_pow "assault bot" dismiss

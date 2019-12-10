@@ -1,0 +1,7 @@
+numpad4 petcom_pow zombies aggressive
+numpad5 petcom_pow zombies defensive
+numpad6 petcom_pow zombies passive
+numpad7 petcom_pow zombies attack
+numpad8 petcom_pow zombies follow
+numpad9 petcom_pow zombies goto
+lctrl+decimal petcom_pow zombies dismiss
