@@ -2,12 +2,11 @@ numpad0 bindloadfile "./mastermind_binds/all.txt"
 numpad1 bindloadfile "./mastermind_binds/demonlings.txt"
 numpad2 bindloadfile "./mastermind_binds/demons.txt"
 numpad3 bindloadfile "./mastermind_binds/demon_prince.txt"
-divide powexec_location 300:5 "summon demonlings"
-multiply powexec_location 60:5 "summon demons"
-subtract powexec_location 0:5 "summon demon prince"
+divide powexec_location 5 "summon demonlings"
+multiply powexec_location 5 "summon demons"
+subtract powexec_location 5 "summon demon prince"
 add powexec_name "enchant demon"
 numpadenter powexec_name "abyssal empowerment"
-
 numpad4 petcom_all aggressive
 numpad5 petcom_all defensive
 numpad6 petcom_all passive

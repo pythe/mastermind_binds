@@ -2,12 +2,11 @@ numpad0 bindloadfile "./mastermind_binds/all.txt"
 numpad1 bindloadfile "./mastermind_binds/wolves.txt"
 numpad2 bindloadfile "./mastermind_binds/lions.txt"
 numpad3 bindloadfile "./mastermind_binds/dire_wolf.txt"
-divide powexec_location 300:5 "summon wolves"
-multiply powexec_location 60:5 "summon lions"
-subtract powexec_location 0:5 "summon dire wolf"
+divide powexec_location 5 "summon wolves"
+multiply powexec_location 5 "summon lions"
+subtract powexec_location 5 "summon dire wolf"
 add powexec_name "train beasts"
 numpadenter powexec_name "fortify pack"
-
 numpad4 petcom_all aggressive
 numpad5 petcom_all defensive
 numpad6 petcom_all passive
